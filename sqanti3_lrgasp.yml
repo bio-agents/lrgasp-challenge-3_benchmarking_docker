@@ -1,0 +1,32 @@
+name: sqanti3_lrgasp
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - r
+  - defaults
+dependencies:
+  - busco
+  - cython
+  - python=3.7
+  - perl
+  - minimap2
+  - pysam
+  - psutil
+  - biopython
+  - bcbiogff
+  - gffread
+  - pandoc
+  - pandas
+  - r-base
+  - r-ggplot2
+  - r-scales
+  - r-kableextra
+  - r-dplyr
+  - r-data.table
+  - bioconductor-rsamagents
+  - samagents
+  - scipy
+  - bx-python
+  - jsonschema
+  - json

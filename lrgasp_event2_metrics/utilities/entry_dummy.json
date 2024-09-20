@@ -1,25 +1,3 @@
-{
-    "entry_id": "Fake_Entry_ID",
-    "challenge_id": "iso_detect_de_novo",
-    "team_id": "synapse_team_id",
-    "team_name": "Fake Team from InventLand",
-    "data_category": "long_only",
-    "samples": [
-        "blood"
-    ],
-    "library_preps": [
-        "cDNA"
-    ],
-    "platforms": [
-        "Unkown_platform"
-    ],
-    "experiment_ids": [
-        "Fake_Experiment_ID"
-    ],
-    "contacts": [
-        {
-            "name": "Mr. Nobody",
-            "email": ""
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:40687b8483652d9f0fd14a55b3d651c4309a1f2cbcb1fb2672fb05db5f5f705b
+size 492
